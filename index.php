@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+ciao
 <html>
     <head>
         <link rel="stylesheet" href="CSS/reg_style.css?<?= rand() ?>" />
